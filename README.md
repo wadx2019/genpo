@@ -50,4 +50,4 @@ url={https://openreview.net/forum?id=BmRNz1TpCc}
 
 ## Acknowledgement
 
-The code of GenPO is based on the implementation of [IsaacLab](https://github.com/BellmanTimeHut/DIPO).
+The code of GenPO is based on the implementation of [IsaacLab](https://github.com/isaac-sim/IsaacLab), [rsl_rl](https://github.com/isaac-sim/IsaacLab).
